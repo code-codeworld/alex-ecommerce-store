@@ -21,4 +21,21 @@ This repository contains a full-stack e-commerce store built with a React fronte
 - **Order Notification**: Integration with Power Automate for order notifications (placeholder).
 
 ## Repository Structure
-alex-ecommerce-store/ ├── README.md ├── azure-deploy.sh ├── server/ │ ├── package.json │ ├── server.js │ ├── products.json │ └── .env.example └── client/ ├── package.json ├── public/ │ └── index.html └── src/ ├── index.js ├── App.js ├── App.css └── components/ └── ProductCard.js
+alex-ecommerce-store/
+├── README.md
+├── azure-deploy.sh
+├── server/
+│   ├── package.json
+│   ├── server.js
+│   ├── products.json
+│   └── .env.example
+└── client/
+    ├── package.json
+    ├── public/
+    │   └── index.html
+    └── src/
+        ├── index.js
+        ├── App.js
+        ├── App.css
+        └── components/
+            └── ProductCard.js
